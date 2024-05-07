@@ -8,7 +8,7 @@ import { RiExternalLinkFill } from "react-icons/ri";
 const Hero = () => {
   return (
     <div className="w-[98%] md:w-[90%] mx-auto text-center py-6">
-      <h2 className="font-extrabold text-6xl mb-5 md:text-[6rem] text-center text-[#1C1D20]">
+      <h2 className="font-[1000] text-6xl mb-5 md:text-[6rem] text-center text-[#1C1D20] font-Anta">
         Pandoshi
       </h2>
       <div className="flex flex-col lg:flex-row items-center">
@@ -568,7 +568,9 @@ const Hero = () => {
           </div>
           <div className="bg-[#1C1D20] px-0.5 pt-0.5 pb-4 rounded-t-[2.5rem] rounded-b-[2.5rem]">
             <div className="bg-[#FFA98D] max-w-[80rem] px-5 md:px-10 lg:px-20 pb-16 rounded-[2.5rem]">
-              <h2 className="font-bold text-4xl py-7">Presale has Ended! 🎉</h2>
+              <h2 className="font-bold text-4xl py-7 font-Anta">
+                Presale has Ended! 🎉
+              </h2>
               <div>
                 <p className="pb-3">
                   <span className="font-bold">Pandoshi</span>'s Presale has

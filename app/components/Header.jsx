@@ -12,7 +12,7 @@ const Header = () => {
           className="bg-white flex justify-center items-center rounded-b-[2.5rem] py-5 gap-x-2"
         >
           <Image width={90} height={90} alt="" src={Logo} className="w-16" />
-          <h1 className="font-extrabold text-4xl">Pandoshi</h1>
+          <h1 className="font-extrabold text-4xl font-Anta">Pandoshi</h1>
         </Link>
       </div>
     </div>
